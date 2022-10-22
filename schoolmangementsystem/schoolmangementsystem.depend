@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665743591 source:c:\users\noura\desktop\c\schoolmangementsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1666448567 c:\users\noura\desktop\c\schoolmangementsystem\functions.h
+
